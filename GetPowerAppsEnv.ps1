@@ -1,5 +1,3 @@
-## 実行開始日時
-[String]$runtimeStr = Get-Date -format "yyyyMMddHHmmss"
 
 #---------------------------------------------
 # Power Apps接続
